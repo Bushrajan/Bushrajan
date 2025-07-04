@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on **Redux**  
 - 🌱 I’m currently learning **MongoDB**  
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/bushra-jan-50653427b/)  
-- 👨‍💻 All of my projects are available at [https://portfoliotheme-xyz.vercel.app/](https://portfoliotheme-xyz.vercel.app/)  
+- 👨‍💻 All of my projects are available at <a href="https://portfoliotheme-xyz.vercel.app/" target="blank">Portfolio</a>
+
 - 💬 Ask me about **JavaScript, TypeScript, React, and Node.js**  
 - 📫 How to reach me **bushrajan713@gmail.com**  
 - ⚡ Fun fact **I think bugs are funny, and solving them is fun.**  
