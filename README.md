@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **MongoDB**  
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/bushra-jan-50653427b/)  
 - 👨‍💻 My projects are available at [Portfolio](https://portfoliotheme-xyz.vercel.app/)  
+- 👨‍💻 My projects are available at [Previous Portfolio](https://portfoliobushrajan--chi.vercel.app/)  
 - 💬 Ask me about **JavaScript, TypeScript, React, and Node.js**  
 - 📫 Contact: **bushrajan713@gmail.com**  
 - ⚡ Fun fact: *I treat debugging like solving a mystery—clues, logic, and a satisfying aha!*  
